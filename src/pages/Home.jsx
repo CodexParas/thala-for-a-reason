@@ -52,7 +52,7 @@ const Home = () => {
           <div className="filter brightness-100 w-20 mb-6">
             <img src={msd} alt="MS Dhoni" />
           </div>
-          <h1 className="mb-6 text-2xl">Thalla For a Reason</h1>
+          <h1 className="mb-6 text-2xl">Thala For a Reason</h1>
           <input
             type="text"
             className="border border-black rounded-lg p-2 mb-3"
@@ -75,7 +75,7 @@ const Home = () => {
               to={"https://github.com/CodexParas/thala-for-a-reason"}
               target="_blank"
             >
-              Sourec
+              Soure Code
             </Link>
           </h2>
         </form>
