@@ -71,7 +71,10 @@ const Home = () => {
               Paras Gupta
             </Link>{" "}
             |{" "}
-            <Link to={""} target="_blank">
+            <Link
+              to={"https://github.com/CodexParas/thala-for-a-reason"}
+              target="_blank"
+            >
               Sourec
             </Link>
           </h2>
